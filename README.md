@@ -32,5 +32,39 @@ The experiments cover a variety of ANN topics including perceptrons, backpropaga
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/ANN-Lab-Experiments.git
-   
+   git clone https://github.com/Akshint0407/ANN-Lab-Experiments.git
+
+2. Make sure Jupyter Notebook is installed. If not, install it using:
+
+```bash
+pip install notebook
+```
+
+3. Launch Jupyter Notebook:
+```bash
+
+jupyter notebook
+```
+
+4. Navigate to the experiment folder and open the .ipynb file of your choice.
+
+Ensure required libraries like NumPy, Pandas, Matplotlib, Scikit-learn, and TensorFlow/Keras are installed in your environment.
+
+## Target Audience
+- 3rd Year AIDS Students
+
+- Beginners in Neural Networks
+
+- Anyone exploring foundational AI/ML concepts
+
+## Contributions
+If you have improvements, bug fixes, or additional experiment ideas, feel free to fork this repo and raise a pull request!
+
+## License
+This project is licensed under the [MIT License](MIT License).
+
+## Connect with Me
+Akshint
+[Linkedin](linkedin.com/in/Akshint-Varma)• [GitHub](github.com/Akshint0407)
+
+***Feel free to share with your classmates and juniors. Happy Learning!***
