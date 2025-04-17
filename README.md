@@ -61,7 +61,7 @@ Ensure required libraries like NumPy, Pandas, Matplotlib, Scikit-learn, and Tens
 If you have improvements, bug fixes, or additional experiment ideas, feel free to fork this repo and raise a pull request!
 
 ## License
-This project is licensed under the [MIT License](MIT License).
+This project is licensed under the [MIT License](License).
 
 ## Connect with Me
 Akshint
